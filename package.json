@@ -1,14 +1,17 @@
 {
   "name": "presentation",
   "version": "1.0.0",
-  "description": "My personal details",
+  "description": "Jair Reina's information",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jaireina/presentation.git"
   },
-  "keywords": [],
+  "bin": {
+    "presentation": "./index.js"
+  },
+  "keywords": ["contact","jair","reina","info","information"],
   "author": "",
   "license": "ISC",
   "bugs": {
