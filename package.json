@@ -26,7 +26,6 @@
   "homepage": "https://github.com/jaireina/presentation#readme",
   "dependencies": {
     "colors": "^1.3.2",
-    "figlet": "^1.2.1",
-    "inquirer": "^6.2.1"
+    "figlet": "^1.2.1"
   }
 }
