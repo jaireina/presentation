@@ -1,0 +1,21 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "My personal details",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaireina/presentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaireina/presentation/issues"
+  },
+  "homepage": "https://github.com/jaireina/presentation#readme",
+  "dependencies": {
+    "figlet": "^1.2.1"
+  }
+}
